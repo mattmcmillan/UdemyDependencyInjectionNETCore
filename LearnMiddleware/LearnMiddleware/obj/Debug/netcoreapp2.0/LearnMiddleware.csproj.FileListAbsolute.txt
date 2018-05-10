@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\bin\Debug\netcoreapp2.0\LearnMiddleware.deps.json
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\bin\Debug\netcoreapp2.0\LearnMiddleware.runtimeconfig.json
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\bin\Debug\netcoreapp2.0\LearnMiddleware.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\bin\Debug\netcoreapp2.0\LearnMiddleware.dll
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\bin\Debug\netcoreapp2.0\LearnMiddleware.pdb
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\obj\Debug\netcoreapp2.0\LearnMiddleware.csprojResolveAssemblyReference.cache
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\obj\Debug\netcoreapp2.0\LearnMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\obj\Debug\netcoreapp2.0\LearnMiddleware.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\obj\Debug\netcoreapp2.0\LearnMiddleware.AssemblyInfo.cs
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\obj\Debug\netcoreapp2.0\LearnMiddleware.dll
+C:\Users\Matt\source\repos\UdemyDependencyInjection\LearnMiddleware\LearnMiddleware\obj\Debug\netcoreapp2.0\LearnMiddleware.pdb

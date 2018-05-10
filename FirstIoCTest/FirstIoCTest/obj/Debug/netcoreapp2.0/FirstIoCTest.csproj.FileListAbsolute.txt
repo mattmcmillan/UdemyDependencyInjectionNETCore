@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\bin\Debug\netcoreapp2.0\FirstIoCTest.deps.json
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\bin\Debug\netcoreapp2.0\FirstIoCTest.runtimeconfig.json
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\bin\Debug\netcoreapp2.0\FirstIoCTest.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\bin\Debug\netcoreapp2.0\FirstIoCTest.dll
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\obj\Debug\netcoreapp2.0\FirstIoCTest.csprojResolveAssemblyReference.cache
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\obj\Debug\netcoreapp2.0\FirstIoCTest.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\obj\Debug\netcoreapp2.0\FirstIoCTest.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\obj\Debug\netcoreapp2.0\FirstIoCTest.AssemblyInfo.cs
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\bin\Debug\netcoreapp2.0\FirstIoCTest.pdb
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\obj\Debug\netcoreapp2.0\FirstIoCTest.dll
+C:\Users\Matt\source\repos\FirstIoCTest\FirstIoCTest\obj\Debug\netcoreapp2.0\FirstIoCTest.pdb

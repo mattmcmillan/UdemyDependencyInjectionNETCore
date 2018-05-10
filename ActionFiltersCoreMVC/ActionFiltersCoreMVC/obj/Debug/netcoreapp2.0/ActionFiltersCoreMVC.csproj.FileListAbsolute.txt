@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\bin\Debug\netcoreapp2.0\ActionFiltersCoreMVC.deps.json
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\bin\Debug\netcoreapp2.0\ActionFiltersCoreMVC.runtimeconfig.json
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\bin\Debug\netcoreapp2.0\ActionFiltersCoreMVC.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\bin\Debug\netcoreapp2.0\ActionFiltersCoreMVC.dll
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\obj\Debug\netcoreapp2.0\ActionFiltersCoreMVC.csprojResolveAssemblyReference.cache
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\obj\Debug\netcoreapp2.0\ActionFiltersCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\obj\Debug\netcoreapp2.0\ActionFiltersCoreMVC.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\obj\Debug\netcoreapp2.0\ActionFiltersCoreMVC.AssemblyInfo.cs
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\bin\Debug\netcoreapp2.0\ActionFiltersCoreMVC.pdb
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\obj\Debug\netcoreapp2.0\ActionFiltersCoreMVC.dll
+C:\Users\Matt\source\repos\UdemyDependencyInjection\ActionFiltersCoreMVC\ActionFiltersCoreMVC\obj\Debug\netcoreapp2.0\ActionFiltersCoreMVC.pdb
